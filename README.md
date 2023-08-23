@@ -1,4 +1,4 @@
-# DBOrdenamentoPT
+# Base de Dados Ordenamento de Portugal
 Base de dados MS SQL SERVER com informação das NUTS, Distritos, Concelhos, Freguesias de Portugal
 
 Uso previsto para criação de relatórios de análise e fins estatísticos, cruzando com informação proveniente de ERP's
